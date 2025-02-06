@@ -1,12 +1,10 @@
-<h3 align="center">A skillful telecommunications engineering student whose passionate about offensive security,malware and Russian literature</h3>
+<h3 align="center">A skillful telecommunications engineering student whose passionate about offensive security,malware and literature</h3>
 
-- 🔭 I’m currently working on [How I Met Your Shell](https://bettercheatsheets.gitbook.io/himyourshell)
-
+- 🔭 I’m currently working on Converting [How I Met Your Shell](https://bettercheatsheets.gitbook.io/himyourshell)  to Github Pages.
 - 🌱 I’m currently learning **Reverse Engineering and halfway through HTB CPTS Path.**
-
 - 📝 I regularly write my pentesting notes on [https://bettercheatsheets.gitbook.io/himyourshell](https://bettercheatsheets.gitbook.io/himyourshell)
 
-- 💬 Ask me about **Books.**
+- 💬 Talk to me about **Books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
