@@ -9,14 +9,14 @@
 ---
 
 ### 📡 System Intelligence
-- 🔭 **Active Process:** Working on [How I Met Your Shell](https://bettercheatsheets.gitbook.io) when I remember.
-- 🌱 **Sef Learning Progress:** Grinding to gain the most out of it.
-- 👯 **Network:** Open for collaboration on `Open Source Security`
-- 📝 **Log Entries:** [7ankalis.github.io](https://7ankalis.github.io) (Under migration)
+-  **Active Process:** Working on [How I Met Your Shell](https://bettercheatsheets.gitbook.io) when I remember to.
+-  **Sef Learning Progress:** Grinding to gain the most out of it.
+-  **Network:** Open for collaboration on `Open Source Security` or whatever project.
+-  **Log Entries:** [7ankalis.github.io](https://7ankalis.github.io) (Under migration)
 
 ---
 
-### 🛠 Security Arsenal
+### 🛠 Tech stack I can deal with
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,dotnet,terraform,aws,gcp,azure,ansible,docker,git,go,python,linux&theme=light" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 Activity Metrics
+###  Some Metrics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7ankalis&theme=github-compact&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" />
